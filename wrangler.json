@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "kkkkkpei",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "6e215a7d-7818-4ca8-8bd8-23f5fca568dd",
+      "database_name": "DBD1Database"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
